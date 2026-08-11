@@ -2,7 +2,7 @@
 
 Esta organización contiene el código fuente de K'Plan.
 
-Puede encontrar la aplicación móvil y su API REST en los siguientes repositorios:
+Puede encontrar el API REST y la aplicación móvil en los siguientes repositorios:
 
-- [`mobile`](https://github.com/Los-Come-Tuani/backend)
-- [`backend`](https://github.com/Los-Come-Tuani/backend)
+- [`api`](https://github.com/Los-Come-Tuani/api)
+- [`mobile`](https://github.com/Los-Come-Tuani/mobile)
